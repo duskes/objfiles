@@ -1,2 +1,2 @@
-www.google.de
-hallo
+https://github.com/duskes/objfiles/raw/master/Objekt3.zip
+
