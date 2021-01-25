@@ -1,4 +1,3 @@
 https://github.com/duskes/objfiles/raw/master/Objekt3.zip;1
 https://github.com/duskes/objfiles/raw/master/Objekt1.rar;2
 https://github.com/duskes/objfiles/raw/master/100k-20200803T091302Z-001.zip;3
-https://github.com/duskes/objfiles/raw/master/Johannes-Brahms-Musikschule%20obj%20RGB-20201212T213816Z-001.zip;4
