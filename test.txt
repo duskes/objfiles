@@ -1,2 +1,6 @@
 1;https://github.com/duskes/objfiles/raw/master/Objekt3.zip
 3;https://github.com/duskes/objfiles/raw/master/100k-20200803T091302Z-001.zip
+Alligatoah;https://github.com/alecjacobson/common-3d-test-models/raw/master/data/alligator.zip
+Man;https://github.com/alecjacobson/common-3d-test-models/raw/master/data/woody.zip
+Head;https://github.com/nafiul-nipu/three-js-/raw/master/linkedin%20course/Exercise%20Files/assets/models/head/lee-perry-smith-head-scan.obj
+
