@@ -1,1 +1,1 @@
-testbundle;android;admin;https://github.com/duskes/objfiles/raw/master/testbundle;5;Objekt3;Objekt4
+wfdbundle;android;admin;https://github.com/duskes/objfiles/raw/master/wfdbundle;1;Emsdetten,Erlen,grube
