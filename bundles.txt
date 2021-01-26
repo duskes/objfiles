@@ -1,1 +1,1 @@
-testbundle;https://github.com/duskes/objfiles/raw/master/testbundle;2;Objekt3;Objekt4
+testbundle;android;admin;https://github.com/duskes/objfiles/raw/master/testbundle;2;Objekt3;Objekt4
