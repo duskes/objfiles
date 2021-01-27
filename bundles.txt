@@ -1,1 +1,1 @@
-wfdbundle;android;admin;https://github.com/duskes/objfiles/raw/master/wfdbundle;1;WFDBundle
+wfdbundle;android;admin;https://github.com/duskes/objfiles/raw/master/wfdbundle;2;WFDBundle
