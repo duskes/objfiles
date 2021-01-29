@@ -1,2 +1,1 @@
 wfdbundle;android;Admin,admin2,Matthias;https://github.com/duskes/objfiles/raw/master/wfdbundle;4;TestBundle
-bundle2;android;Admin;https://github.com/duskes/objfiles/raw/master/bundle2;1;grube
