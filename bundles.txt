@@ -1,2 +1,2 @@
 wfdbundle;android;Admin,admin2,Matthias;https://github.com/duskes/objfiles/raw/master/wfdbundle;0;TestBundle
-volkswohl;ios;Admin;https://github.com/duskes/objfiles/raw/master/volkswohl;1;Volkswohlbund
+volkswohl;android;Admin;https://github.com/duskes/objfiles/raw/master/volkswohl;1;Volkswohlbund
