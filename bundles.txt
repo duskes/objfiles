@@ -1,5 +1,5 @@
 wfdbundle;android;Admin,admin2,WFD,Matthias;https://github.com/duskes/objfiles/raw/master/wfdbundle;16;WFD Beispiel
 volkswohl;android;Admin,Volkswohlbund,WFD;https://github.com/duskes/objfiles/raw/master/volkswohl;16;Volkswohlbund
 insidebundle;android;Admin,test;https://github.com/duskes/objfiles/raw/master/insidebundle;4;Innenraum Test
-lodbundle;android;Admin,test;https://github.com/duskes/objfiles/raw/master/lodbundle;1;LOD Test
-mannheim;android;Admin,WFD;https://github.com/duskes/objfiles/raw/master/mannheim;2;Schule Mannheim
+lodbundle;android;Admin,test;https://github.com/duskes/objfiles/raw/master/lodbundle;2;LOD Test
+mannheim;android;Admin,WFD;https://github.com/duskes/objfiles/raw/master/mannheim;3;Schule Mannheim
