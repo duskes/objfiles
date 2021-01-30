@@ -1,4 +1,4 @@
-wfdbundle;android;Admin,admin2,WFD,Matthias;https://github.com/duskes/objfiles/raw/master/wfdbundle;16;TestBundle
+wfdbundle;android;Admin,admin2,WFD,Matthias;https://github.com/duskes/objfiles/raw/master/wfdbundle;16;WFD Beispiel
 volkswohl;android;Admin,Volkswohlbund,WFD;https://github.com/duskes/objfiles/raw/master/volkswohl;12;Volkswohlbund
 insidebundle;android;Admin,test;https://github.com/duskes/objfiles/raw/master/insidebundle;1;Innenraum Test
 lodbundle;android;Admin,test;https://github.com/duskes/objfiles/raw/master/lodbundle;1;LOD Test
